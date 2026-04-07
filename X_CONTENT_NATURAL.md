@@ -38,13 +38,13 @@ if you're good at reading stories. understanding character motivations. predicti
 
 ## Bio X
 
-$AKIRA • story-based prediction gambling on Solana • bet on narrative outcomes • Claude judges results • onchain settlement • where gambling has meaning
+$AKR99 • story-based prediction gambling on Solana • bet on narrative outcomes • Claude judges results • onchain settlement • where gambling has meaning
 
 ---
 
 ## Bio Pumpfun
 
-akira99: gamble on stories, not luck. AI generates scenarios, you predict outcomes, Claude judges, Solana settles. narrative gambling that actually makes sense. CA: TBA
+$AKR99 • akira99: gamble on stories, not luck. AI generates scenarios, you predict outcomes, Claude judges, Solana settles. narrative gambling that actually makes sense. CA: RqawsQhHM8sCEwDWE8XEEhq38My1XqspEFyL6empump
 
 ---
 
