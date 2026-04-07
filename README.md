@@ -1,6 +1,6 @@
 # Akira99 — Fate Casino
 
-**Token:** $AKIRA | **Gambling on Stories** | **Solana DEX Settlement** | **LLM-Powered Narratives**
+**Token:** $AKR99 | **CA:** `RqawsQhHM8sCEwDWE8XEEhq38My1XqspEFyL6empump` | **Gambling on Stories** | **Solana DEX Settlement** | **LLM-Powered Narratives**
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
@@ -430,6 +430,7 @@ MIT License. Use in production, modify, fork. No restrictions.
 
 ## Links
 
+- **Token:** $AKR99 on Solana (RqawsQhHM8sCEwDWE8XEEhq38My1XqspEFyL6empump)
 - **GitHub:** https://github.com/myAkira99/Akira99
 - **Docs:** https://akira99.dev/docs
 - **API:** https://api.akira99.dev
